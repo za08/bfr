@@ -45,7 +45,7 @@ This Bash script is designed for Arch Linux and other Unix-like operating system
 2. **Run the Script**:
 
    ```bash
-   /path/to/file-renamer/rename_files.sh
+   /path/to/ren/ren.sh
    ```
 
    Ensure to provide the correct path to where you cloned the repository if it's not in your current working directory.
