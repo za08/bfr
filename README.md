@@ -1,4 +1,4 @@
-# bfr - bulk file renamer
+# bfr - batch file renamer
 
 This Bash script renames all files in the current directory by stripping their original extensions and assigning new names consisting of 8 random digits. Additionally, it appends the appropriate file extension based on the file's MIME type.
 
