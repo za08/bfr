@@ -1,6 +1,6 @@
-# ren - file renamer script
+# bfr - bulk file renamer
 
-This Bash script is designed for Arch Linux and other Unix-like operating systems. It renames all files in the current directory by stripping their original extensions and assigning new names consisting of 8 random digits. Additionally, it appends the appropriate file extension based on the file's MIME type.
+This Bash script renames all files in the current directory by stripping their original extensions and assigning new names consisting of 8 random digits. Additionally, it appends the appropriate file extension based on the file's MIME type.
 
 ## Features
 
