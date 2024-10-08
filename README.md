@@ -68,8 +68,8 @@ This Bash script renames all files in the current directory by stripping their o
 
 The script currently recognizes the following MIME types:
 
-- `application/zip` → `.zip`
 - `application/pdf` → `.pdf`
+- `application/zip` → `.zip`
 - `image/gif` → `.gif`
 - `image/jpeg` → `.jpg`
 - `image/png` → `.png`
