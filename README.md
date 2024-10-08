@@ -68,12 +68,15 @@ This Bash script renames all files in the current directory by stripping their o
 
 The script currently recognizes the following MIME types:
 
+- `application/zip` → `.zip`
+- `application/pdf` → `.pdf`
 - `image/gif` → `.gif`
 - `image/jpeg` → `.jpg`
-- `video/mp4` → `.mp4`
 - `image/png` → `.png`
 - `image/webp` → `.webp`
-- `application/zip` → `.zip`
+- `text/plain` → `.txt`
+- `video/mp4` → `.mp4`
+- `video/x-m4v` → `.m4v`
 
 You can easily extend the `get_extension` function to add support for more MIME types as needed.
 
